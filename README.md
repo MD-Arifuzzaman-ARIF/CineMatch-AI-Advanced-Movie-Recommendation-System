@@ -7,7 +7,7 @@
 
 A state-of-the-art movie recommendation system that combines **6 different algorithms** to provide personalized movie suggestions. Built with modern ML techniques and deployed as an interactive web application.
 
-![CineMatch AI Demo](CineMatchAI.png))
+![CineMatch AI Demo](CinematchAi.png))
 
 ## 🌟 Features
 
